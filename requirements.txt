@@ -1,1 +1,4 @@
-streamlitpandasbeautifulsoup4lxml
+streamlit
+pandas
+beautifulsoup4
+lxml
